@@ -1,0 +1,7 @@
+---
+title: "lab_attendance"
+name: Sara McLaughlin
+format: html
+---
+
+## I learned how to push things to github using the terminal and how to connect a project to github properly. 
